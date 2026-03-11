@@ -26,7 +26,7 @@ Las herramientas de IA aprenden de ti, no seas el combustible gratuito de sus mo
 <details>
   <summary>📸 Ver paso a paso (GIF)</summary>
   <br>
-  <img src=![GIF GPT n](https://github.com/user-attachments/assets/54a9cc26-2b0a-46a2-bbda-4508facaae16) width="100%" alt="Guía paso a paso">
+  <img src="https://github.com/user-attachments/assets/54a9cc26-2b0a-46a2-bbda-4508facaae16" width="100%" alt="Guía paso a paso en ChatGPT">
   <p align="center"><i>Tutorial rápido para asegurar tu privacidad.</i></p>
 </details>
 
@@ -39,8 +39,7 @@ Evita que una app le cuente a otra lo que haces
 <details>
   <summary>📸 Ver paso a paso en iOS (iPhone)</summary>
   <br>
-  <img src="[Privacy GIFF](https://github.com/user-attachments/assets/8e0d43c8-cace-45b8-ad32-22cbb8b2e0c2)
-IF_IOS" width="100%" alt="Privacidad iOS">
+  <img src="https://github.com/user-attachments/assets/8e0d43c8-cace-45b8-ad32-22cbb8b2e0c2" width="100%" alt="Privacidad iOS">
   <p align="center"><i>Ruta: Ajustes > Privacidad > Rastreo.</i></p>
 </details>
 
