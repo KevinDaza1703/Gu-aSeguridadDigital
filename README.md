@@ -1,5 +1,3 @@
-# GuiaSeguridadDigital
-
 # 🛡️ Guía de Seguridad Digital
 
 ¿Alguna vez has sentido que tu celular "lee tus pensamientos" o escucha tus conversaciones privadas? La realidad es más fascinante (y técnica) que un simple micrófono abierto.
