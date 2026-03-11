@@ -31,8 +31,8 @@ Las herramientas de IA aprenden de ti, no seas el combustible gratuito de sus mo
 
 ### 2. Limita el "Rastreo entre Aplicaciones"
 Evita que una app le cuente a otra lo que haces
-* **iOS:** Ajustes > Privacidad y seguridad > Rastreo > Desactivar "Permitir que las apps soliciten rastrear".
-* **Android:** Ajustes > Privacidad > Anuncios > Eliminar ID de publicidad.
+* **iOS:** Ajustes > Privacidad y seguridad > Rastreo > Desactivar "Permitir que las apps soliciten rastrear"
+* **Android:** Ajustes > Privacidad > Anuncios > Eliminar ID de publicidad
 
 <details>
   <summary>📸 Ver paso a paso en iOS (iPhone)</summary>
@@ -42,24 +42,25 @@ Evita que una app le cuente a otra lo que haces
 </details>
 
 ### 3. Cierra los "Permisos Fantasma"
-Muchas apps piden acceso a **Bluetooth** o **Red Local** no para conectar dispositivos, sino para identificar qué otros aparatos hay en tu hogar y perfilar tu nivel socioeconómico.
-* **Acción:** Revoca estos permisos a cualquier app que no sea de streaming o domótica.
+Muchas apps piden acceso a **Bluetooth** o **Red Local** no para conectar dispositivos, sino para identificar qué otros aparatos hay en tu hogar y perfilar tu nivel socioeconómico
+* **Acción:** Revoca estos permisos a cualquier app que no sea de streaming o domótica!!
 
 ### 4. Limpia la Metadata de tus Fotos
-Tus fotos guardan la coordenada GPS exacta de donde fueron tomadas (datos EXIF).
-* **Cómo:** En los ajustes de tu cámara, desactiva la opción "Guardar ubicación" o usa herramientas como *ExifPurge* antes de subir fotos a la web.
+Tus fotos guardan la coordenada GPS exacta de donde fueron tomadas (datos EXIF)
+* **Cómo:** En los ajustes de tu cámara, desactiva la opción "Guardar ubicación" o usa herramientas como *ExifPurge* antes de subir fotos a la web
 
 ### 5. Desactiva el "Escaneo de Dispositivos Cercanos"
-Incluso con el Wi-Fi "apagado", tu celular busca señales para triangular tu posición.
-* **Acción:** Busca en ajustes: "Búsqueda de Wi-Fi" y "Búsqueda de Bluetooth" y apágalos.
+Incluso con el Wi-Fi "apagado", tu celular busca señales para triangular tu posición
+* **Acción:** Busca en ajustes: "Búsqueda de Wi-Fi" y "Búsqueda de Bluetooth" y apágalos
 
 ### 6. Ubicación: "Solo al usar la App"
-El mayor filtrador de datos es el historial de ubicaciones.
-* **Regla de Oro:** Cambia todos los permisos de ubicación de "Siempre" a **"Al usar la app"**. Si una app de linterna o calculadora pide ubicación, deniégalo.
+El mayor filtrador de datos es el historial de ubicaciones
+* **Regla de Oro:** Cambia todos los permisos de ubicación de "Siempre" a **"Al usar la app"** Si una app de linterna o calculadora pide ubicación, deniégalo!
 
 ### 7. Limpieza Mensual de Apps
-Si no la has usado en 30 días, es un riesgo innecesario.
-* **Acción:** Borra las apps que acumulan polvo digital. Menos apps = menos puertas traseras a tu información.
+Si no la has usado en 30 días, es un riesgo innecesario
+* **Acción:** Borra las apps que acumulan polvo digital
+* Menos apps = menos puertas traseras a tu información.
 
 ---
 
